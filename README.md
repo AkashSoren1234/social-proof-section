@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AkashSoren1234/social-proof-section](https://github.com/AkashSoren1234/social-proof-section)
+- Live Site URL: [https://akashsoren1234.github.io/social-proof-section/](https://akashsoren1234.github.io/social-proof-section/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yAkashSoren1234](https://www.frontendmentor.io/profile/AkashSoren1234)
+- Frontend Mentor - [@AkashSoren1234](https://www.frontendmentor.io/profile/AkashSoren1234)
 
